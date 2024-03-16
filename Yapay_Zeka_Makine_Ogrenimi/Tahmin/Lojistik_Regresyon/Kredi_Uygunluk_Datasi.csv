@@ -1,0 +1,10 @@
+Musteri_id,yas,gelir,kredi_sicili,Egitim_seviyesi,Kredi_kabul
+1,35,17002,iyi,lisans,1
+2,25,20500,kotu,lise,0
+3,40,22000,orta,on_lisans,1
+4,50,25000,iyi,ortaokul,1
+5,30,17500,kotu,lise,0
+6,20,19000,orta,ilkokul,1
+7,55,21000,mukemmel,lisans,1
+8,32,35000,mukemmel,lisans,1
+9,28,50000,orta,lisansustu,1

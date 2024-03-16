@@ -1,0 +1,5 @@
+Kaynak_ip,Hedef_ip,Protokol,Paket_Boyutu, Baglanti_Noktasi,Zaman_Damgasi,saldiri_tipi
+192.168.1.1,8.8.8.8,TCP,64,80,2023-11-16 13:29:00,DoS
+10.0.0.1,192.168.1.1,UDP,1024,53,2023-11-16 13:30:00,Tarama
+172.16.0.1,10.0.0.1,TCP,1500,22,2023-11-16 13:31:00,SQL Enjesiyon
+127.0.0.1,192.168.1.1,HTTP,80,80,2023-11-16 13:32:00,Kimlik Avi
